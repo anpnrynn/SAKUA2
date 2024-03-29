@@ -47,3 +47,5 @@ If its not HTTP or SMTP header, the MIME header mentioned above can be put in th
 
 
 This is done to couple the encryption key to the username.
+
+NOTE: THERE IS NO RESTRICTION ON PORT NUMBER, use above 1024. Websites can use different server ports for each user-session, to avoid flooding. 
