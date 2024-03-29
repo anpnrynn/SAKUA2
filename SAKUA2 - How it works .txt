@@ -6,11 +6,18 @@ Website requests login info:
 User enters: loginname
 
 
-Website prompts:
+Website prompts: [ ] unsecure location
 DOB XX/07/19YY
 Twitter : xxxxreal
 Phone : 956vvZZ977
 Random (saved by you): 1234123ffff891234 
+
+Optionally: 
+[X] unsecure location
+DOB XX/uu/eeYY
+Twitter : xxxxpppp
+Phone : zzzvvZZiii
+Random (saved by you): nnnnnnnffffmmmmmm
 
 
 Please enter:
