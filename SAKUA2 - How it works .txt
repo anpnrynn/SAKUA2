@@ -1,0 +1,30 @@
+SAKUA2: How it works.
+
+User Visits website, lets say a banking website.
+
+Website requests login info:
+User enters: loginname
+
+
+Website prompts:
+DOB XX/07/19YY
+Twitter : xxxxreal
+Phone : 956vvZZ977
+Random (saved by you): 1234123ffff891234 
+
+
+Please enter:
+XXxxYYvvZZffff
+(This would generate the seed pin that is used to generate the seed string, Domino Password Algo can be used for this as well)
+
+
+
+Website prompts:
+Enter The Pin
+Enter the domino password
+
+(Domino password is then once again used to generate the final encryption key).
+
+
+
+The user is then authenticated and validated.
