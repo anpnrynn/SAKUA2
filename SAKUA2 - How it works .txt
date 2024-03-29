@@ -33,5 +33,15 @@ Enter the domino password
 (Domino password is then once again used to generate the final encryption key).
 
 
-
 The user is then authenticated and validated.
+
+
+
+The SAKUA2 is not a protocol, all information is displayed and entered is through a web browser and the encrypted channel is created using a private key algorithm.
+The SAKUA2 client and server component uses the encrypted data and HTTP header to validate and authenticate the end user.
+
+The HTTP Header should contain:
+SAKUA2-Ver1-Header : loginname, server-random:120384981237098173091723847861378479831798413874137984139, timestamp + timezone
+
+
+This is done to couple the encryption key to the username.
