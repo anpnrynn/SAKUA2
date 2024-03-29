@@ -1,10 +1,7 @@
-# SAKUA
-## SAKUA (Based on dominopassword)
+# SAKUA2
+## SAKUA2 (Based on dominopassword)
 
-SAKA
-----
-Shared Access Key Authentication
-SAKA uses registration information for providing secure encryption layer for communication.
+# Please Read how it works file.
 
 SAKUA
 -----
