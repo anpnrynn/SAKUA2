@@ -18,3 +18,7 @@ DominoPassword C implementation for:
 TO DO:
 ------
 Actual SAKUA and SAKA implemetation. SAKUA and SAKA are a replacement for public key alogrithm.
+
+
+## Also see github.com/anpnrynn/SAKUA2Random
+
