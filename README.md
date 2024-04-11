@@ -19,7 +19,8 @@ TO DO:
 Actual SAKUA and SAKA implemetation. SAKUA and SAKA are a replacement for public key alogrithm.
 
 
-## Also see github.com/anpnrynn/SAKUA2Random
+## Also see github.com/anpnrynn/SAKUA2Random    (Updated new algorithm, with removal of collisions)
+## This is the old site, maintaining the old code.
 
 ## The APK / android application comes with no waranties, its for generating passwords for website / applications. The Initial purpose for which I wrote this application. It doesn't store the pattern / passwords only the website / applicaiton name and pin , you will have to remember the pattern. 
 
